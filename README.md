@@ -1,2 +1,2 @@
 # electronUpdateTest
-Update Electron apps
+Update Electron appz
