@@ -1,0 +1,26 @@
+{
+  "name": "electronupdatetest",
+  "version": "1.0.0",
+  "description": "Electron Update Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianPower/electronUpdateTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianPower/electronUpdateTest/issues"
+  },
+  "homepage": "https://github.com/fabianPower/electronUpdateTest#readme",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  },
+  "dependencies": {
+    "update-electron-app": "^2.0.1"
+  }
+}
