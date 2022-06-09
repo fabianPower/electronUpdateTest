@@ -19,5 +19,8 @@
   "homepage": "https://github.com/fabianPower/electronUpdateTest#readme",
   "devDependencies": {
     "electron": "^19.0.4"
+  },
+  "dependencies": {
+    "update-electron-app": "^2.0.1"
   }
 }

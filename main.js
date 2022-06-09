@@ -1,5 +1,7 @@
+require('update-electron-app')()
+const { app, autoUpdater, dialog } = require('electron')
 const electron = require('electron');
-const {app} = electron;
+// const {app} = electron;
 const {BrowserWindow} = electron;
 let win;
 
